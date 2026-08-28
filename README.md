@@ -1,0 +1,2 @@
+# MODELING-URBAN-CRIME-RISK-AND-ARREST-PROBABILITY-USING-SPATIO-TEMPORAL-MACHINE-LEARNING-TECHNIQUES
+This study develops a machine learning framework to predict arrests using Chicago crime data (2001–2023) integrated with socio-economic, weather, and mobility data. Multiple models and class-balancing methods were evaluated. Random Forest with oversampling achieved the best performance, supporting data-driven public safety decisions.
